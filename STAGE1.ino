@@ -1,5 +1,5 @@
 
-// TAKES IN DATA FROM SERIAL MONITOR AND SENDS IT THROUGH LORA IN BROADCAST MANNER
+// TAKES IN DATA FROM SERIAL MONITOR AND SENDS IT THROUGH LORA IN BROADCAST MANNER.
 
 #include <SoftwareSerial.h>                           //we have to include the SoftwareSerial library, or else we can't use it
 #define rx 13                                          //LORA TX
